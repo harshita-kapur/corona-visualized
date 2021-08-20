@@ -1,2 +1,2 @@
-# Corona visualized on a World Map
+# Corona cases visualized on a World Map
 
